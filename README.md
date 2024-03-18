@@ -20,7 +20,8 @@ Put all files from the "ChaiNNer Nodes" folder into one of these "processing" fo
 - portable: chaiNNer\resources\src\packages\chaiNNer_pytorch\pytorch\processing
 
 Then restart ChaiNNer and you can already find the new nodes via the search. Documentation for each setting is directly added into the nodes.
-An example chain file is available in the "Examples" folder, which does rough alignment > match colors > improve alignment.
+
+An example chain is available in the "Examples" folder, which does rough alignment > match colors > improve alignment.
 
 <p align="center">
     <img src="Examples/Image Aligner Example.png" width="720" />
