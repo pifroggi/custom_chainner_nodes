@@ -1,7 +1,7 @@
+Notice: As of [Alpha v0.24.0](https://github.com/chaiNNer-org/chaiNNer/releases/tag/v0.24.0), this is now officially part of chaiNNer.
+
 # Custom ChaiNNer Nodes
 [ChaiNNer](https://github.com/chaiNNer-org/chaiNNer) is a node-based image processing GUI aimed at making chaining image processing tasks easy and customizable.
-
-Tested with Alpha v0.22.2
 
 ## Nodes
 ### Image Align with Rife
